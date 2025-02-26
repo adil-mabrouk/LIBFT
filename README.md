@@ -25,7 +25,6 @@ If you implemented linked list utilities, they include:
 - `lstadd_back`, `lstdelone`, `lstclear`, `lstiter`, `lstmap`
 
 ## **⚙️ Installation**  
-To use Libft in your project, follow these steps:  
 
 ```sh
 # Clone the repository
