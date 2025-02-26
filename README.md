@@ -29,7 +29,7 @@ To use Libft in your project, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/libft.git
+git clone https://github.com/adil-mabrouk/libft.git
 cd libft
 
 # Compile the library
