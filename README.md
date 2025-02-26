@@ -19,7 +19,7 @@ Custom utility functions that extend the C standard library:
 - `split`, `itoa`, `strmapi`, `striteri`  
 - `putchar_fd`, `putstr_fd`, `putendl_fd`, `putnbr_fd`
 
-### **3️⃣ Linked List Functions** (if applicable)  
+### **3️⃣ Linked List Functions**  
 If you implemented linked list utilities, they include:  
 - `lstnew`, `lstadd_front`, `lstsize`, `lstlast`  
 - `lstadd_back`, `lstdelone`, `lstclear`, `lstiter`, `lstmap`
