@@ -11,7 +11,7 @@ Reimplementations of standard C library functions, such as:
 - `memset`, `bzero`, `memcpy`, `memmove`  
 - `strlcpy`, `strlcat`, `strchr`, `strrchr`  
 - `strncmp`, `memchr`, `memcmp`, `strnstr`  
-- `atoi`, `isalpha`, `isdigit`, `isalnum`, `isascii`, `isprint`, `toupper`, `tolower`
+- `atoi`, `isalpha`, `isascii`, `isdigit`, `isalnum`, `isascii`, `isprint`, `toupper`, `tolower`
 
 ### **2️⃣ Additional Functions**  
 Custom utility functions that extend the C standard library:  
