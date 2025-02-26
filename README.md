@@ -20,9 +20,11 @@ Custom utility functions that extend the C standard library:
 - `putchar_fd`, `putstr_fd`, `putendl_fd`, `putnbr_fd`
 
 ### **3️⃣ Linked List Functions**  
-If you implemented linked list utilities, they include:  
-- `lstnew`, `lstadd_front`, `lstsize`, `lstlast`  
-- `lstadd_back`, `lstdelone`, `lstclear`, `lstiter`, `lstmap`
+In addition to standard functions, Libft also includes useful linked list utilities:  
+- `ft_lstnew`, `ft_lstadd_front`, `ft_lstsize`, `ft_lstlast`  
+- `ft_lstadd_back`, `ft_lstdelone`, `ft_lstclear`, `ft_lstiter`, `ft_lstmap`  
+
+These functions allow easy manipulation of linked lists, making them useful for data structures and algorithm implementations.
 
 ## **⚙️ Installation**  
 
